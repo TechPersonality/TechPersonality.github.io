@@ -10077,14 +10077,14 @@ header.masthead h1 {
   }
 }
 
-#contents .container-fluid, #contents .container-sm, #contents .container-md, #contents .container-lg, #contents .container-xl {
+#portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl {
   max-width: 1920px;
 }
-#contents .container-fluid .contents-box, #contents .container-sm .contents-box, #contents .container-md .contents-box, #contents .container-lg .contents-box, #contents .container-xl .contents-box {
+#portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box {
   position: relative;
   display: block;
 }
-#contents .container-fluid .contents-box .contents-box-caption, #contents .container-sm .contents-box .contents-box-caption, #contents .container-md .contents-box .contents-box-caption, #contents .container-lg .contents-box .contents-box-caption, #contents .container-xl .contents-box .contents-box-caption {
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption, #portfolio .container-sm .portfolio-box .portfolio-box-caption, #portfolio .container-md .portfolio-box .portfolio-box-caption, #portfolio .container-lg .portfolio-box .portfolio-box-caption, #portfolio .container-xl .portfolio-box .portfolio-box-caption {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -10100,16 +10100,16 @@ header.masthead h1 {
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#contents .container-fluid .contents-box .contents-box-caption .project-category, #contents .container-sm .contents-box .contents-box-caption .project-category, #contents .container-md .contents-box .contents-box-caption .project-category, #contents .container-lg .contents-box .contents-box-caption .project-category, #contents .container-xl .contents-box .contents-box-caption .project-category {
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#contents .container-fluid .contents-box .contents-box-caption .project-name, #contents .container-sm .contents-box .contents-box-caption .project-name, #contents .container-md .contents-box .contents-box-caption .project-name, #contents .container-lg .contents-box .contents-box-caption .project-name, #contents .container-xl .contents-box .contents-box-caption .project-name {
+#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1.2rem;
 }
-#contents .container-fluid .contents-box:hover .contents-box-caption, #contents .container-sm .contents-box:hover .contents-box-caption, #contents .container-md .contents-box:hover .contents-box-caption, #contents .container-lg .contents-box:hover .contents-box-caption, #contents .container-xl .contents-box:hover .contents-box-caption {
+#portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
 
