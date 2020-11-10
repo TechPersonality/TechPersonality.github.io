@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'BMHANNA_11yrs';
+    src: url('../assets/font/BMHANNA_11yrs_ttf.ttf') format('truetype');
+         /* url('../assets/font/BMHANNA_11yrs_otf.otf').format(''); */
+    font-weight: 600;
+    font-style: normal;
+  }
