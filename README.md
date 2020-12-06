@@ -1,8 +1,5 @@
-﻿# TechPersonality.github.io
+﻿# [TechPersonality.github.io](https://techpersonality.github.io)
  
- [링크](https://techpersonality.github.io)
----   
-
 Using BMHANNA_11yrs Font
 Thanks Woowahanbros!
 
